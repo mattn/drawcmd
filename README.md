@@ -2,6 +2,8 @@
 
 Render image on Windows Command Prompt.
 
+![drawcmd](https://raw.githubusercontent.com/mattn/drawcmd/screenshot.gif)
+
 ## Installation
 
 ```
